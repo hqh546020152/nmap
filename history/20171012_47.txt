@@ -1,0 +1,461 @@
+
+-------------------------------------------
+[1;31m120.76.26.134：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.76.42.229：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.78.135.203：[0m
+80/tcp   open   http       nginx
+443/tcp  open   https      nginx
+5000/tcp closed upnp
+8080/tcp closed http-proxy
+8181/tcp open   unknown
+-------------------------------------------
+[1;31m119.23.30.224：[0m
+80/tcp   open   http             nginx
+389/tcp  closed ldap
+443/tcp  open   http             nginx
+8080/tcp closed http-proxy
+8081/tcp open   blackice-icecap?
+8082/tcp open   blackice-alerts?
+8180/tcp open   unknown          nginx
+8181/tcp open   unknown
+-------------------------------------------
+[1;31m39.108.188.33：[0m
+80/tcp   open   http       nginx
+443/tcp  open   http       nginx
+5000/tcp open   http       Node.js (Express middleware)
+7777/tcp open   http       Apache Tomcat/Coyote JSP engine 1.1
+8080/tcp closed http-proxy
+8180/tcp open   http       nginx
+-------------------------------------------
+[1;31m120.76.200.97：[0m
+22/tcp   open  ssh     Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   open  http    nginx 1.12.1
+8001/tcp open  http    nginx 1.12.1
+-------------------------------------------
+[1;31m120.76.43.80：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.77.237.83：[0m
+22/tcp open  ssh     Dropbear sshd 2017.75 (protocol 2.0)
+-------------------------------------------
+[1;31m120.77.237.155：[0m
+22/tcp open  ssh     Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp open  http    nginx 1.10.2
+-------------------------------------------
+[1;31m119.23.142.227：[0m
+22/tcp   closed ssh
+80/tcp   open   http    nginx 1.12.1
+8081/tcp open   http    nginx 1.12.1
+-------------------------------------------
+[1;31m39.108.143.116：[0m
+22/tcp  closed ssh
+80/tcp  closed http
+443/tcp closed https
+-------------------------------------------
+[1;31m39.108.177.142：[0m
+22/tcp  closed ssh
+80/tcp  open   http
+443/tcp open   ssl/https
+-------------------------------------------
+[1;31m120.76.41.42：[0m
+80/tcp  open  http    nginx
+443/tcp open  http    nginx
+-------------------------------------------
+[1;31m120.77.62.128：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.77.237.34：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.76.157.82：[0m
+80/tcp  open  http    nginx
+443/tcp open  http    nginx
+-------------------------------------------
+[1;31m120.76.98.27：[0m
+22/tcp open  ssh     Dropbear sshd 2017.75 (protocol 2.0)
+-------------------------------------------
+[1;31m120.76.157.237：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.76.96.192：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.76.157.41：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.76.157.223：[0m
+22/tcp   closed ssh
+80/tcp   open   http            nginx
+443/tcp  open   http            nginx
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+-------------------------------------------
+[1;31m120.24.42.142：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m112.74.86.178：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.76.47.189：[0m
+22/tcp   open   ssh         Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   open   http        nginx
+443/tcp  closed https
+8001/tcp closed vcom-tunnel
+8080/tcp closed http-proxy
+-------------------------------------------
+[1;31m112.74.96.36：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m112.74.99.227：[0m
+22/tcp   open   ssh         Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   closed http
+443/tcp  closed https
+8001/tcp closed vcom-tunnel
+8080/tcp closed http-proxy
+-------------------------------------------
+[1;31m120.76.40.15：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m119.23.238.65：[0m
+80/tcp   open  http       nginx
+5000/tcp open  http-proxy sslstrip
+-------------------------------------------
+[1;31m112.74.111.124：[0m
+22/tcp   open   ssh        Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   open   http       nginx
+443/tcp  closed https
+8080/tcp closed http-proxy
+-------------------------------------------
+[1;31m119.23.21.26：[0m
+80/tcp   open   http    nginx
+5000/tcp closed upnp
+-------------------------------------------
+[1;31m112.74.105.61：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.25.216.21：[0m
+80/tcp   closed http
+8081/tcp closed blackice-icecap
+-------------------------------------------
+[1;31m39.108.102.55：[0m
+80/tcp open  http    nginx 1.10.3 (Ubuntu)
+-------------------------------------------
+[1;31m119.23.238.254：[0m
+22/tcp   closed ssh
+53/tcp   closed domain
+80/tcp   open   http           nginx
+443/tcp  closed https
+4001/tcp closed newoak
+5000/tcp closed upnp
+7070/tcp open   realserver?
+8000/tcp closed http-alt
+8001/tcp closed vcom-tunnel
+8010/tcp closed xmpp
+8011/tcp closed unknown
+8021/tcp closed ftp-proxy
+8022/tcp closed oa-system
+8042/tcp closed fs-agent
+8080/tcp closed http-proxy
+8082/tcp open   http           nginx 1.10.3 (Ubuntu)
+8083/tcp open   http           nginx 1.10.3 (Ubuntu)
+8089/tcp closed unknown
+8090/tcp open   http           nginx 1.10.3 (Ubuntu)
+8180/tcp closed unknown
+8181/tcp closed unknown
+8193/tcp closed sophos
+8200/tcp closed trivnet1
+8300/tcp closed tmi
+8402/tcp closed abarsd
+8654/tcp closed unknown
+8873/tcp closed dxspider
+8888/tcp closed sun-answerbook
+8994/tcp closed unknown
+9000/tcp closed cslistener
+9200/tcp open   wap-wsp?
+-------------------------------------------
+[1;31m112.74.59.133：[0m
+80/tcp   open  http       nginx
+8022/tcp open  oa-system?
+8042/tcp open  fs-agent?
+-------------------------------------------
+[1;31m120.25.121.89：[0m
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+5432/tcp open     postgresql   PostgreSQL DB
+8022/tcp open     oa-system?
+8031/tcp open     unknown
+8042/tcp open     fs-agent?
+8080/tcp open     http-proxy
+-------------------------------------------
+[1;31m120.76.99.217：[0m
+80/tcp   open   http       nginx
+443/tcp  open   http       nginx
+8080/tcp closed http-proxy
+-------------------------------------------
+[1;31m120.76.156.164：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.76.157.31：[0m
+80/tcp   open   http            nginx
+443/tcp  open   https           nginx
+8001/tcp closed vcom-tunnel
+8080/tcp closed http-proxy
+8081/tcp closed blackice-icecap
+-------------------------------------------
+[1;31m120.76.42.9：[0m
+22/tcp   open     ssh          Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   open     http         nginx
+111/tcp  open     rpcbind      2-4 (RPC #100000)
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+443/tcp  open     http         nginx
+445/tcp  filtered microsoft-ds
+873/tcp  open     rsync        (protocol version 30)
+1434/tcp filtered ms-sql-m
+2049/tcp open     nfs          3-4 (RPC #100003)
+4444/tcp filtered krb524
+-------------------------------------------
+[1;31m120.76.100.213：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.76.25.182：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.24.152.174：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m119.23.147.89：[0m
+22/tcp   open   ssh         Dropbear sshd 2016.74 (protocol 2.0)
+80/tcp   open   http        nginx
+8001/tcp closed vcom-tunnel
+-------------------------------------------
+[1;31m119.23.148.53：[0m
+22/tcp open  ssh     Dropbear sshd 2016.74 (protocol 2.0)
+80/tcp open  http    nginx
+-------------------------------------------
+[1;31m120.76.248.54：[0m
+22/tcp open  ssh     Dropbear sshd 2016.74 (protocol 2.0)
+80/tcp open  http    nginx 1.10.3
+-------------------------------------------
+[1;31m119.23.146.132：[0m
+22/tcp    open     ssh          Dropbear sshd 2016.74 (protocol 2.0)
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+445/tcp   filtered microsoft-ds
+1434/tcp  filtered ms-sql-m
+4444/tcp  filtered krb524
+30000/tcp open     http         Node.js (Express middleware)
+-------------------------------------------
+[1;31m120.76.159.159：[0m
+22/tcp   open     ssh          Dropbear sshd 2016.74 (protocol 2.0)
+80/tcp   open     http         nginx
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+8090/tcp open     http         Apache Tomcat/Coyote JSP engine 1.1
+-------------------------------------------
+[1;31m120.25.67.57：[0m
+22/tcp   open   ssh         Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   open   http        nginx 1.10.2
+443/tcp  closed https
+8001/tcp closed vcom-tunnel
+8080/tcp open   http-proxy
+-------------------------------------------
+[1;31m112.74.109.166：[0m
+22/tcp   open     ssh          Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   open     http
+99/tcp   open     http         Apache Tomcat/Coyote JSP engine 1.1
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+1080/tcp open     socks?
+1434/tcp filtered ms-sql-m
+3306/tcp open     mysql        MySQL 5.5.16-log
+4444/tcp filtered krb524
+8031/tcp open     unknown
+-------------------------------------------
+[1;31m120.25.231.92：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.25.228.197：[0m
+22/tcp   open     ssh          Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   open     http         nginx
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+-------------------------------------------
+[1;31m120.25.250.105：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.25.249.98：[0m
+22/tcp   open     ssh          Dropbear sshd 2016.74 (protocol 2.0)
+80/tcp   open     http         nginx
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+8080/tcp open     http         Apache Tomcat/Coyote JSP engine 1.1
+9090/tcp open     http         Apache Tomcat/Coyote JSP engine 1.1
+-------------------------------------------
+[1;31m120.25.151.76：[0m
+21/tcp    closed ftp
+22/tcp    open   ssh             Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp    closed http
+443/tcp   closed https
+8081/tcp  closed blackice-icecap
+8083/tcp  closed us-srv
+8086/tcp  closed d-s-n
+20000/tcp closed dnp
+20031/tcp closed unknown
+20828/tcp closed unknown
+21571/tcp closed unknown
+22939/tcp closed unknown
+23502/tcp closed unknown
+24800/tcp closed unknown
+26214/tcp closed unknown
+27352/tcp closed unknown
+27355/tcp closed unknown
+27715/tcp closed unknown
+30000/tcp closed unknown
+-------------------------------------------
+[1;31m120.77.86.105：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m112.74.58.220：[0m
+8180/tcp open  http    nginx
+8181/tcp open  http    nginx
+-------------------------------------------
+[1;31m120.77.86.30：[0m
+80/tcp   open   http       nginx
+443/tcp  open   http       nginx
+8080/tcp closed http-proxy
+8081/tcp open   http       nginx
+8180/tcp open   http       nginx
+8181/tcp open   http       nginx
+-------------------------------------------
+[1;31m120.77.83.175：[0m
+80/tcp   open   http       nginx
+443/tcp  open   https      nginx
+8080/tcp closed http-proxy
+8180/tcp open   unknown    nginx
+8181/tcp open   unknown
+-------------------------------------------
+[1;31m112.74.175.68：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.77.80.254：[0m
+22/tcp   open  ssh     Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   open  http    nginx
+81/tcp   open  http    nginx
+443/tcp  open  http    nginx
+8090/tcp open  http    nginx
+-------------------------------------------
+[1;31m120.77.39.15：[0m
+22/tcp   open  ssh     Dropbear sshd 2016.74 (protocol 2.0)
+80/tcp   open  http    nginx
+81/tcp   open  http    nginx
+443/tcp  open  http    nginx
+8090/tcp open  http    nginx
+8099/tcp open  http    nginx
+-------------------------------------------
+[1;31m112.74.162.24：[0m
+22/tcp  open  ssh     Dropbear sshd 2016.74 (protocol 2.0)
+80/tcp  open  http    nginx
+443/tcp open  http    nginx
+-------------------------------------------
+[1;31m120.77.38.108：[0m
+80/tcp   closed http
+443/tcp  closed https
+8099/tcp closed unknown
+-------------------------------------------
+[1;31m112.74.178.201：[0m
+80/tcp  closed http
+443/tcp closed https
+-------------------------------------------
+[1;31m120.77.63.54：[0m
+22/tcp   open   ssh         Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   open   http        nginx
+443/tcp  open   http        nginx
+3306/tcp open   mysql       MySQL 5.6.22-log
+8001/tcp closed vcom-tunnel
+-------------------------------------------
+[1;31m120.25.148.153：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m120.77.14.129：[0m
+22/tcp   open     ssh          Dropbear sshd 2017.75 (protocol 2.0)
+80/tcp   open     http         nginx
+111/tcp  open     rpcbind      2-4 (RPC #100000)
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+443/tcp  open     http         nginx
+445/tcp  filtered microsoft-ds
+873/tcp  open     rsync        (protocol version 30)
+1434/tcp filtered ms-sql-m
+2049/tcp open     nfs          3-4 (RPC #100003)
+4444/tcp filtered krb524
+-------------------------------------------
+[1;31m120.77.25.27：[0m
+21/tcp    open   ftp          Pure-FTPd
+22/tcp    open   ssh?
+80/tcp    open   http         nginx
+88/tcp    closed kerberos-sec
+443/tcp   open   https        nginx
+20000/tcp closed dnp
+20005/tcp closed btx
+20031/tcp closed unknown
+20222/tcp closed ipulse-ics
+20828/tcp closed unknown
+21571/tcp closed unknown
+22939/tcp closed unknown
+24444/tcp closed unknown
+24800/tcp closed unknown
+25734/tcp closed unknown
+25735/tcp closed unknown
+26214/tcp closed unknown
+27352/tcp closed unknown
+27355/tcp closed unknown
+27356/tcp closed unknown
+27715/tcp closed unknown
+30000/tcp closed unknown
+-------------------------------------------
+[1;31m120.76.238.208：[0m
+22/tcp   open     ssh          Dropbear sshd 2016.74 (protocol 2.0)
+53/tcp   open     tcpwrapped
+111/tcp  open     rpcbind      2-4 (RPC #100000)
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+1434/tcp filtered ms-sql-m
+2049/tcp open     nfs          3-4 (RPC #100003)
+4444/tcp filtered krb524
+-------------------------------------------
+[1;31m120.76.229.90：[0m
+1/tcp    open     rsync        (protocol version 30)
+111/tcp  open     rpcbind      2-4 (RPC #100000)
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+1434/tcp filtered ms-sql-m
+1723/tcp filtered pptp
+3306/tcp open     mysql        MySQL 5.6.22-log
+4444/tcp filtered krb524
+-------------------------------------------
+[1;31m120.76.217.105：[0m
+没有该主机或无法连接
+-------------------------------------------
+探测耗时时间：30分钟46秒
+3306端口共开放 3个
+6379端口共开放 0个

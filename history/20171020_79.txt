@@ -1,0 +1,244 @@
+
+-------------------------------------------
+[1;31m114.119.7.97：[0m
+22/tcp   open     ssh          OpenSSH 4.3 (protocol 2.0)
+53/tcp   open     domain       ISC BIND 9.6-ESV-R5-P1
+80/tcp   open     http         Microsoft IIS httpd 7.5
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+161/tcp  open     snmp?
+443/tcp  open     ssl/http     Apache httpd
+445/tcp  filtered microsoft-ds
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+8080/tcp open     http         Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+-------------------------------------------
+[1;31m114.119.7.98：[0m
+1/tcp     open     rsync        (protocol version 30)
+22/tcp    open     ssh          Dropbear sshd 2016.74 (protocol 2.0)
+53/tcp    open     domain       dnsmasq 2.48
+80/tcp    open     http         nginx
+88/tcp    open     http         nginx
+111/tcp   open     rpcbind      2-4 (RPC #100000)
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+443/tcp   open     http         nginx
+445/tcp   filtered microsoft-ds
+1434/tcp  filtered ms-sql-m
+1723/tcp  open     pptp         linux (Firmware: 1)
+3000/tcp  open     http         nginx
+4001/tcp  open     http         nginx
+4002/tcp  open     http         nginx
+4003/tcp  open     http         nginx
+4004/tcp  open     http         nginx
+4005/tcp  open     http         nginx
+4006/tcp  open     http         nginx
+4444/tcp  filtered krb524
+5000/tcp  open     http         nginx
+8080/tcp  open     http         nginx
+9080/tcp  open     http         nginx
+9090/tcp  open     http         nginx
+30000/tcp open     http         nginx
+50000/tcp open     http         nginx
+-------------------------------------------
+[1;31m114.119.7.99：[0m
+1/tcp     open     rsync        (protocol version 30)
+22/tcp    open     ssh          Dropbear sshd 2016.74 (protocol 2.0)
+53/tcp    open     domain       dnsmasq 2.48
+80/tcp    open     http         nginx
+88/tcp    open     http         nginx
+111/tcp   open     rpcbind      2-4 (RPC #100000)
+135/tcp   filtered msrpc
+139/tcp   filtered netbios-ssn
+443/tcp   open     http         nginx
+445/tcp   filtered microsoft-ds
+1434/tcp  filtered ms-sql-m
+1723/tcp  open     pptp         linux (Firmware: 1)
+3000/tcp  open     http         nginx
+4001/tcp  open     http         nginx
+4002/tcp  open     http         nginx
+4003/tcp  open     http         nginx
+4004/tcp  open     http         nginx
+4005/tcp  open     http         nginx
+4006/tcp  open     http         nginx
+4444/tcp  filtered krb524
+5000/tcp  open     http         nginx
+8080/tcp  open     http         nginx
+9080/tcp  open     http         nginx
+9090/tcp  open     http         nginx
+30000/tcp open     http         nginx
+50000/tcp open     http         nginx
+-------------------------------------------
+[1;31m157.255.237.202：[0m
+80/tcp   open     http           Microsoft IIS httpd 7.0
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+593/tcp  filtered http-rpc-epmap
+1434/tcp filtered ms-sql-m
+4000/tcp open     http           nginx 1.10.2
+4001/tcp open     http           nginx 1.10.2
+4002/tcp open     http           nginx 1.10.2
+4003/tcp open     http           nginx 1.10.2
+4444/tcp filtered krb524
+8080/tcp open     http           Microsoft IIS httpd 7.5
+-------------------------------------------
+[1;31m157.255.237.203：[0m
+80/tcp    open  http    Microsoft IIS httpd 7.5
+82/tcp    open  http    Microsoft IIS httpd 7.5
+85/tcp    open  http    Microsoft IIS httpd 7.5
+89/tcp    open  http    Microsoft IIS httpd 7.5
+90/tcp    open  http    Microsoft IIS httpd 7.5
+143/tcp   open  imap?
+389/tcp   open  ldap    (Anonymous bind OK)
+587/tcp   open  smtp
+49154/tcp open  msrpc   Microsoft Windows RPC
+-------------------------------------------
+[1;31m157.255.237.204：[0m
+22/tcp   open     ssh            Dropbear sshd 2016.74 (protocol 2.0)
+80/tcp   open     http           nginx
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+593/tcp  filtered http-rpc-epmap
+801/tcp  open     http           nginx
+1434/tcp filtered ms-sql-m
+3306/tcp open     mysql          MySQL (unauthorized)
+4000/tcp open     http           nginx
+4002/tcp open     http           nginx
+4003/tcp open     http           nginx
+4444/tcp filtered krb524
+5000/tcp open     http           nginx
+5001/tcp open     http           nginx
+5002/tcp open     http           nginx
+5003/tcp open     http           nginx
+5004/tcp open     http           nginx
+5009/tcp open     http           nginx
+6000/tcp open     http           nginx
+6100/tcp open     http           nginx
+7000/tcp open     http           nginx
+8000/tcp open     http           nginx
+8011/tcp open     http           nginx
+-------------------------------------------
+[1;31m157.255.237.205：[0m
+22/tcp   open     ssh            Dropbear sshd 2016.74 (protocol 2.0)
+25/tcp   open     smtp           Postfix smtpd
+53/tcp   open     domain         dnsmasq 2.66
+110/tcp  open     pop3           Dovecot pop3d
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+143/tcp  open     imap           Dovecot imapd
+389/tcp  open     ldap           (Anonymous bind OK)
+445/tcp  filtered microsoft-ds
+465/tcp  open     ssl/smtp       Postfix smtpd
+587/tcp  open     smtp           Postfix smtpd
+593/tcp  filtered http-rpc-epmap
+993/tcp  open     ssl/imap       Dovecot imapd
+995/tcp  open     ssl/pop3       Dovecot pop3d
+1434/tcp filtered ms-sql-m
+3306/tcp open     mysql          MySQL 5.6.32-log
+4444/tcp filtered krb524
+8009/tcp open     ajp13          Apache Jserv (Protocol v1.3)
+9080/tcp open     http           Apache Tomcat/Coyote JSP engine 1.1
+-------------------------------------------
+[1;31m157.255.237.206：[0m
+1/tcp    open     rsync          (protocol version 30)
+22/tcp   open     ssh            Dropbear sshd 2016.74 (protocol 2.0)
+80/tcp   open     tcpwrapped
+110/tcp  open     pop3?
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+143/tcp  open     imap           Dovecot imapd
+443/tcp  open     tcpwrapped
+445/tcp  filtered microsoft-ds
+593/tcp  filtered http-rpc-epmap
+993/tcp  open     tcpwrapped
+995/tcp  open     tcpwrapped
+1434/tcp filtered ms-sql-m
+3306/tcp open     mysql          MySQL 5.7.19-log
+4444/tcp filtered krb524
+5000/tcp open     http           Node.js (Express middleware)
+5001/tcp open     commplex-link?
+5002/tcp open     rfe?
+5003/tcp open     filemaker?
+5004/tcp open     avt-profile-1?
+5009/tcp open     airport-admin?
+6000/tcp open     http           Node.js (Express middleware)
+6100/tcp open     http           Node.js (Express middleware)
+8021/tcp open     ftp-proxy?
+8022/tcp open     oa-system?
+8080/tcp open     tcpwrapped
+-------------------------------------------
+[1;31m157.255.237.207：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m157.255.237.208：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m157.255.237.209：[0m
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+593/tcp  filtered http-rpc-epmap
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+-------------------------------------------
+[1;31m114.119.6.158：[0m
+没有该主机或无法连接
+-------------------------------------------
+[1;31m114.119.6.159：[0m
+22/tcp   open     ssh          Dropbear sshd 2011.54 (protocol 2.0)
+53/tcp   open     tcpwrapped
+111/tcp  open     rpcbind      2-4 (RPC #100000)
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+873/tcp  open     rsync        (protocol version 30)
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+-------------------------------------------
+[1;31m114.119.6.160：[0m
+22/tcp   open     ssh          Dropbear sshd 2011.54 (protocol 2.0)
+53/tcp   open     tcpwrapped
+111/tcp  open     rpcbind      2-4 (RPC #100000)
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+873/tcp  open     rsync        (protocol version 30)
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+-------------------------------------------
+[1;31m114.119.6.161：[0m
+22/tcp   open     ssh          Dropbear sshd 2011.54 (protocol 2.0)
+53/tcp   open     tcpwrapped
+111/tcp  open     rpcbind      2-4 (RPC #100000)
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+445/tcp  filtered microsoft-ds
+873/tcp  open     rsync        (protocol version 30)
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+-------------------------------------------
+[1;31m114.119.6.162：[0m
+80/tcp   open     http         mysrv
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+443/tcp  open     ssl/https    mysrv
+445/tcp  filtered microsoft-ds
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+-------------------------------------------
+[1;31m114.119.6.163：[0m
+22/tcp   open     ssh          Dropbear sshd 2015.67 (protocol 2.0)
+80/tcp   open     http         nginx 1.6.3
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+443/tcp  open     http         nginx 1.6.3
+445/tcp  filtered microsoft-ds
+1434/tcp filtered ms-sql-m
+4444/tcp filtered krb524
+8090/tcp open     http         nginx 1.6.3
+-------------------------------------------
+探测耗时时间：11分钟54秒
+3306端口共开放 3个
+6379端口共开放 0个
